@@ -35,3 +35,13 @@
   "description": "Creates a rocket function"
   }
   ```
+  
+  # Libraries
+  * `npm i bootstrap`
+  * `npm i lodash`
+  * `npm i @fortawesome/fontawesome-svg-core`
+  * `npm i @fortawesome/free-regular-svg-icons`
+  * `npm i @fortawesome/free-solid-svg-icons`
+  * `npm i @fortawesome/react-fontawesome`
+  * `npm i react-router-dom`
+  * `npm i @reduxjs/toolkit`
