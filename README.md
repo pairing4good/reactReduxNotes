@@ -45,3 +45,4 @@
   * `npm i @fortawesome/react-fontawesome`
   * `npm i react-router-dom`
   * `npm i @reduxjs/toolkit`
+  * `npm i reselect`
