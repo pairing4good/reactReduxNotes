@@ -49,5 +49,5 @@
   * `npm i @reduxjs/toolkit` simplify redux code https://redux-toolkit.js.org/
   * `npm i reselect` caches selectors https://github.com/reduxjs/reselect
   
-  # Recepie
+  # Recipes
   * All `npm i bootstrap lodash @fortawesome/react-fontawesome @fortawesome/fontawesome-svg-core @fortawesome/free-regular-svg-icons @fortawesome/free-solid-svg-icons react-router-dom formik yup @reduxjs/toolkit reselect`
