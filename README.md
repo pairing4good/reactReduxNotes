@@ -47,4 +47,4 @@
   * `npm i formik` simplified forms https://jaredpalmer.com/formik/
   * `npm i yup` simplified validation https://github.com/jquense/yup
   * `npm i @reduxjs/toolkit` simplify redux code https://redux-toolkit.js.org/
-  * `npm i reselect`
+  * `npm i reselect` caches selectors https://github.com/reduxjs/reselect
