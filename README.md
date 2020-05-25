@@ -37,12 +37,14 @@
   ```
   
   # Libraries
-  * `npm i bootstrap`
-  * `npm i lodash`
-  * `npm i @fortawesome/fontawesome-svg-core`
-  * `npm i @fortawesome/free-regular-svg-icons`
-  * `npm i @fortawesome/free-solid-svg-icons`
-  * `npm i @fortawesome/react-fontawesome`
-  * `npm i react-router-dom`
-  * `npm i @reduxjs/toolkit`
+  * `npm i bootstrap` to use Bootstrap https://getbootstrap.com
+  * `npm i lodash` helper functions https://lodash.com/
+  * `npm i @fortawesome/react-fontawesome` to use Font Awesome https://fontawesome.com/
+  * `npm i @fortawesome/fontawesome-svg-core`to use Font Awesome icons https://fontawesome.com/
+  * `npm i @fortawesome/free-regular-svg-icons`to use Font Awesome icons https://fontawesome.com/
+  * `npm i @fortawesome/free-solid-svg-icons`to use Font Awesome icons https://fontawesome.com/
+  * `npm i react-router-dom` routing https://reacttraining.com/react-router/
+  * `npm i formik` simplified forms https://jaredpalmer.com/formik/
+  * `npm i yup` simplified validation https://github.com/jquense/yup
+  * `npm i @reduxjs/toolkit` simplify redux code https://redux-toolkit.js.org/
   * `npm i reselect`
