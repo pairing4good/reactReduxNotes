@@ -33,7 +33,14 @@
     "($1) => {$2}",
     ],
   "description": "Creates a rocket function"
-  }
+  },
+	"middleware": {
+		"prefix": "sna",
+		"body": [
+			"(store) => (next) => (action) => {$1};",
+		],
+		"description": "Creates a middleware function"
+	}
   ```
   
   # Libraries
