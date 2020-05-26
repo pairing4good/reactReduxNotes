@@ -58,3 +58,6 @@
   
   # Recipes
   * All `npm i bootstrap lodash @fortawesome/react-fontawesome @fortawesome/fontawesome-svg-core @fortawesome/free-regular-svg-icons @fortawesome/free-solid-svg-icons react-router-dom formik yup @reduxjs/toolkit reselect`
+  
+  # Debugging
+  * redux-devtools https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=en
