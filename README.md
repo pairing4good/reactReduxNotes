@@ -5,7 +5,8 @@
 * `nvm use stable`
 
 # VS Code
-* https://code.visualstudio.com/download
+* Download: https://code.visualstudio.com/download
+* Cheat Sheet: https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf
 
 # Create React App
 * `npx create-react-app my-app`
