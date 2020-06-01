@@ -58,6 +58,7 @@
   * `npm i reselect` caches selectors https://github.com/reduxjs/reselect
   * `npm i axios` makes api calls https://github.com/axios/axios
   * `npm i moment` Parse, validate, manipulate, and display dates and times https://momentjs.com/
+  * `npm i react-redux`react binding for redux https://react-redux.js.org/
   
   # Recipes
   * All `npm i bootstrap lodash @fortawesome/react-fontawesome @fortawesome/fontawesome-svg-core @fortawesome/free-regular-svg-icons @fortawesome/free-solid-svg-icons react-router-dom formik yup @reduxjs/toolkit reselect`
