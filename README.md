@@ -7,6 +7,11 @@
 # VS Code
 * Download: https://code.visualstudio.com/download
 * Cheat Sheet: https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf
+* Plugins
+  * Auto Import - ES6, TS, JSX, TSX (nucllear.vscode-extension-auto-import)
+  * Prettier - Code formatter (esbenp.prettier-vscode)
+  * React Native Tools (msjsdiag.vscode-react-native)
+  * Simple React Snippets (burkeholland.simple-react-snippets)
 
 # Create React App
 * `npx create-react-app my-app`
