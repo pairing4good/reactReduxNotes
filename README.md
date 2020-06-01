@@ -13,6 +13,7 @@
   * React Native Tools (msjsdiag.vscode-react-native)
   * Simple React Snippets (burkeholland.simple-react-snippets)
   * React-Native/React/Redux snippets for es6/es7 (equimper.react-native-react-redux)
+  * Material Icon Theme (pkief.material-icon-theme)
 
 # Create React App
 * `npx create-react-app my-app`
