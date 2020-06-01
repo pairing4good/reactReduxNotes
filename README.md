@@ -12,6 +12,7 @@
   * Prettier - Code formatter (esbenp.prettier-vscode)
   * React Native Tools (msjsdiag.vscode-react-native)
   * Simple React Snippets (burkeholland.simple-react-snippets)
+  * React-Native/React/Redux snippets for es6/es7 (equimper.react-native-react-redux)
 
 # Create React App
 * `npx create-react-app my-app`
